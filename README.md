@@ -1,4 +1,4 @@
-# NETCoreBBS
+# NETCoreBBS By LC
 ASP.NET Core Light forum NETCoreBBS
 
 ASP.NET Core + EF Core Sqlite + Bootstrap 
@@ -32,3 +32,37 @@ ASP.NET Core + EF Core Sqlite + Bootstrap
 
 ## License
 NETCoreBBS is licensed under [MIT](LICENSE).
+
+## About Me
+
+NetCoreBBS .NET Core 跨平台开发论坛  
+> http://localhost:8098/  
+
+账户信息
+ahviplc ahlc@sina.cn ahviplc5213344
+
+启动步骤:  
+1：安装Rider-2019.2.2
+2：打开 `NetCoreBBS.sln`
+3：点击 `调试->开始调试` 即可运行起来,或者直接点击工具栏上的`NetCoreBBS`即可。
+
+或者直接使用.net Core 命令行启动  
+cd进入C:\_developSoftKu\Rider-2019.2.2\CodeKu\NETCoreBBS\src\NetCoreBBS  
+然后执行命令:
+> dotnet run
+
+即可启动 http://localhost:8098/ 访问.
+
+**欢迎来到 [LC博客-一加壹博客最Top](http://www.oneplusone.vip)**
+
+**欢迎来到 [LC-Gitlab](https://gitlab.com/ahviplc)**
+
+**欢迎来到 [LC-Github](https://github.com/ahviplc)**
+
+**欢迎来到 [LC-Github-pythonLCDemo](https://github.com/ahviplc/pythonLCDemo)**
+
+> ### LC最寄语：永远不要放弃自己心中最初的最初的理想！~LC
+
+> from **2019年9月3日12:02:58**
+
+> to **future**  
