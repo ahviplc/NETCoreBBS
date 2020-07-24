@@ -5,6 +5,8 @@ ASP.NET Core + EF Core Sqlite + Bootstrap
 
 .NET Core 跨平台轻论坛
 
+> https://github.com/linezero/NETCoreBBS
+
 [使用技术点介绍](http://www.cnblogs.com/linezero/p/NETCoreBBS.html)
 
 ## 开发
@@ -59,7 +61,7 @@ cd进入C:\_developSoftKu\Rider-2019.2.2\CodeKu\NETCoreBBS\src\NetCoreBBS
 
 **欢迎来到 [LC-Github](https://github.com/ahviplc)**
 
-**欢迎来到 [LC-Github-pythonLCDemo](https://github.com/ahviplc/pythonLCDemo)**
+**欢迎来到 [LC-Github-NETCoreBBS](https://github.com/ahviplc/NETCoreBBS)**
 
 > ### LC最寄语：永远不要放弃自己心中最初的最初的理想！~LC
 
